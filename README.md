@@ -1,7 +1,7 @@
-Trading Environment with Reinforcement Learning (DQN)
+#Trading Environment with Reinforcement Learning (DQN)
 This repository provides a custom Gym environment for simulating a basic stock trading scenario and training a reinforcement learning (RL) model using the Stable-Baselines3 DQN algorithm.
 
-Overview
+#Overview
 This project includes:
 
 A custom trading environment that allows the agent to make trading decisions (Hold, Buy, Sell) based on stock market data.
