@@ -119,7 +119,7 @@ These results indicate the model's performance in terms of frame rate, explorati
 
 ## Project Motivation
 
-The goal behind building this custom trading environment and reinforcement learning model is to simulate a realistic stock trading scenario and assess how reinforcement learning can enhance trading decisions. By using DQN, the project explores an algorithm's ability to dynamically adjust buy/sell/hold strategies based on historical stock data, with the aim of optimizing portfolio performance over time. This work serves as a foundation for more complex trading algorithms, potentially involving additional data inputs and more advanced reinforcement learning techniques.
+The goal behind building this custom trading environment and reinforcement learning model is to simulate a realistic stock trading scenario and assess how reinforcement learning can enhance trading decisions. By using DQN, the project explores an algorithm's ability to dynamically adjust buy/sell/hold strategies based on historical stock data, with the aim of optimizing portfolio performance over time. In the future I want to apply this code to other platforms and try to model different trading strategies and observe these results.
 
 ## Requirements Verification
 
